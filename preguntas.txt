@@ -1,0 +1,24 @@
+Es un tipo de error que se da en tiempo de ejecucion
+Excepcion
+Es la acción u operación que realiza un objeto
+Metodo
+Metodo cuya  principal función es inicializar las variables de la clase
+Constructor
+Es una entidad que se caracteriza por sus atributos
+Objeto
+Consiste en implementar múltiples formas de un mismo método
+Polimorfismo
+Es un conjunto de objetos que realizan una tarea determinada
+Clase
+Son las características que diferencian a un objeto de otro
+Atributos
+Es la capacidad de crear varios métodos con el mismo nombre
+Sobrecarga
+Técnica que implementa la reutilización de código
+Herencia
+Son estructuras de datos que albergan valores del mismo tipo
+Arreglos
+Es la forma de comunicación entre los objetos
+Mensajes
+Crear un objeto a partir de la clase
+Instanciar
